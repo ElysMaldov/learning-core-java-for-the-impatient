@@ -1,0 +1,1 @@
+Suppose variable names were not case sensitive in Java. Then `count` and `Count` would denote the same variable name, and the compiler would complain that you define it twice: once as an `int`, and once as a `String`. You can see the error message when you rename `Count` to `count` and compile.

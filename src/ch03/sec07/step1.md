@@ -1,0 +1,1 @@
+Have a look at the `ScopeDemo` program. There are two lambda expressions. For each of them, look at all names used in the body. Which of them are local variables, and which are captured from an enclosing scope? Can you find any that are neither?

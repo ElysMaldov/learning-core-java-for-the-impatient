@@ -1,0 +1,1 @@
+Have a look at the NumberDemo program. How many different kinds of number literals do you see? Which prefixes and suffixes are used for number literals? Which kinds of literals do you expect to use in your work?

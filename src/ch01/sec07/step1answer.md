@@ -1,0 +1,1 @@
+Each loop iteration generates a random integer between 0 and 9, with an average of 4.5. Therefore, we expect an average 90000 / 4.5 = 20000 iterations. 

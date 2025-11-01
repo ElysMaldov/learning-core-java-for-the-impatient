@@ -1,0 +1,3 @@
+1. The evil manager is able to mutate the `fred` instance. This is what makes some people believe (falsely) that Java uses "call by reference". Actually, `fred` does  not hold an `Employee` object. It holds a reference to such an object. That reference is passed (by value) to the `giveRandomRaise` method. In that method, the variable `e` is a copy of the reference. It can be used to mutate the object.
+2. Now we pass a `double` value to the `increaseRandomly` variable. In that method, the variable `x` is a copy of the value. Modifying the copy has no effect on the original value.
+3. As in the previous case, `e` is a copy of the value that was passed to the `replaceWithZombie` method. Modifying the copy has no effect on the original value.

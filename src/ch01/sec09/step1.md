@@ -1,0 +1,1 @@
+Add a method `middle` in `ArrayMethodDemo` that yields the middle element of an array if the array length is odd, or the average of the two middle elements if the length is even. Use the `average` method of `StaticMethodDemo`.

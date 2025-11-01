@@ -1,0 +1,3 @@
+The name is read by the `nextLine` method. You can enter as many words as you like, such as `Carla Coder` or `John Pierpont Flathead, Jr.`, as long as they fit on one line. Everything up to the end of the line (but not the newline or `'\n'` character) is a part of the returned string. (You can see that the newline is not part of the string--there is no newline after the name in the output.)
+
+The age is read by the `nextInt` method. If you enter `41.99`, the scanner looks at the integer part, `41`, and leaves the remainder unread. If you enter `forever 21`, the scanner stops at the `f`, not seeing any integer. Then the `nextInt` method returns `false`. 

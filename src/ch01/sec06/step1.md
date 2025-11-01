@@ -1,0 +1,1 @@
+Run the InputDemo program. Enter your name and age. Can you enter a first and last name? Why or why not? What happens when you enter an age such as `41.99` or `forever 21`? Why?
