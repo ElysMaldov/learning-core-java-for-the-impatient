@@ -12,5 +12,7 @@ public class MethodDemo {
         RandomGenerator generator = RandomGenerator.getDefault();
         System.out.println(generator.nextInt());
         System.out.println(generator.nextInt());
+        System.out.println(generator.nextInt());
     }
 }
+
